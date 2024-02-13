@@ -1,0 +1,22 @@
+Opis programu: 
+
+Program pozwala na wpisanie danych faktury, obliczenie, ile zostało do opłacenia, różnicy kursowej z podanych walut oraz zapisanie wszystkich informacji do pliku. 
+Możliwe jest równie wyszukanie informacji odnośnie danej faktury wpisując jej numer. 
+
+Sposób działania: 
+
+Po uruchomieniu programu pojawiają nam się opcje. Należy w konsoli wpisać nr odpowiadający akcji, którą chcemy wykonać
+Po wybraniu opcji 1 możemy numer faktury, dla której chcemy zobaczyć dane 
+Po wybraniu opcji 2 możemy wpisać dane faktury, które następnie zostaną zapisane w pliku w odpowiednich kolumnach 
+
+Proces tworzenia programu: 
+
+Wymyślenie jak ma działać program
+Zdobycie informacji potrzebnej do stworzenia 
+Stworzenie kodu 
+Testy poszczególnych części kodu 
+Finalna wersja 
+
+Możliwe usprawnienia: 
+
+Dodanie opcji wielu opłat 
